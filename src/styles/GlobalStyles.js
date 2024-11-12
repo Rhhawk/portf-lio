@@ -7,7 +7,7 @@ const GlobalStyles = createGlobalStyle `
 * {
 
 body {  
-    background-color: var(--dblue-color);
+    background-color: var(--black-color);
 }
     margin: 0;
     padding: 0;
