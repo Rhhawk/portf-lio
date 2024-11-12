@@ -346,7 +346,7 @@ function Home() {
               <a target="_blank" rel="noopener noreferrer" href="https://api.whatsapp.com/send/?phone=5511966523964&text&type=phone_number&app_absent=0" aria-label="Enviar mensagem para Henrique Silva Costa no WhatsApp">
                 <FaWhatsapp /> WhatsApp 
               </a>
-              <a target="_blank" rel="noopener noreferrer" href="/src/Henrique-Silva-Costa-CV.pdf"  aria-label="PDF do currículo de Henrique Silva Costa"> <div className="icondoc"><AiTwotoneFileText  /></div>Download CV</a>
+              <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1mLh4PWF_quVwt1WWk5mb8TmMbFcI4pXt/view"  aria-label="PDF do currículo de Henrique Silva Costa"> <div className="icondoc"><AiTwotoneFileText  /></div>Download CV</a>
               
               </div>
             </ContainerLinks>
